@@ -29,5 +29,7 @@ public class exercise3 {
 		
 		WebElement removeElement = driver.findElement(By.xpath("//*[@id=\"remove-sauce-labs-fleece-jacket\"]"));
 		removeElement.click();
+		
+		//test
 	}
 }
